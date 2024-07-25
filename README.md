@@ -5,6 +5,6 @@ I'm a student at the Faculty of ICT, Mahidol University
 
 *   🌍  I'm based in Bangkok ,Nakhon Pathom
 *   ✉️  You can contact me at [kunapoom.opr@student.mahidol.ac.th](mailto:kunapoom.opr@student.mahidol.ac.th)
-*   🧠  I'm learning Flutter
+*   🧠  I'm learning Flutter and interested in React.
 
 <a href="https://app.daily.dev/kunapoom"><img src="https://api.daily.dev/devcards/v2/kcVE8uvQeEUOhKKH6hxSD.png?r=84r&type=default" width="356" alt="Kunapoom Oprik's Dev Card"/></a>
