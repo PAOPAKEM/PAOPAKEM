@@ -71,8 +71,6 @@ I'm a student at the Faculty of ICT, Mahidol University
       <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/670px-Matlab_Logo.png" width="36" height="36" alt="Figma" />
       </a>
-      <a href="https://www.timescale.com/" target="_blank" rel="noreferrer">
-        <img src="https://pbs.twimg.com/profile_images/1658849767865167876/hA5OXD9m_400x400.jpg" width="36" height="36" alt="Figma" />
-      </a>
+
 </p>
 <!-- <a href="https://app.daily.dev/kunapoom"><img src="https://api.daily.dev/devcards/v2/kcVE8uvQeEUOhKKH6hxSD.png?r=84r&type=default" width="356" alt="Kunapoom Oprik's Dev Card"/></a> -->
