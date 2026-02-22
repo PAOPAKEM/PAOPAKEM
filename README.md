@@ -3,9 +3,9 @@ Hi My name is Kunapoom Oprik
 
 I'm a student at the Faculty of ICT, Mahidol University
 
-*   🌍  I'm based in Bangkok ,Nakhon Pathom
-*   ✉️  You can contact me at [kunapoom.opr@student.mahidol.ac.th](mailto:kunapoom.opr@student.mahidol.ac.th)
-*   🧠  I'm learning React, TimeScaleDB, Flask, FastAPI, SocketIO.
+*   🌍  I'm based in Bangkok
+*   ✉️  You can contact me at [kunapoom.opr@student.mahidol.edu](mailto:kunapoom.opr@student.mahidol.edu)
+*   🧠  I'm learning React, FastAPI, Rust.
 
 ### Skills
 
@@ -29,23 +29,14 @@ I'm a student at the Faculty of ICT, Mahidol University
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
       </a>
-      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-      </a>
-      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-      </a>
-      <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
-      </a>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
       </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+      </a>
+      <a href="https://www.postgres.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="36" height="36" alt="Postgres" />
       </a>
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="36" height="36" alt="Amazon Web Services" />
@@ -59,18 +50,14 @@ I'm a student at the Faculty of ICT, Mahidol University
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
       </a>
-      <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-      </a>
-      <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
+      <a href="https://podman.io/" target="_blank" rel="noreferrer">
+        <img src="https://podman.io/logos/optimized/podman-3-logo-266w-253h.webp" width="36" height="36" alt="Podman" />
       </a>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
       </a>
-      <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/670px-Matlab_Logo.png" width="36" height="36" alt="Figma" />
+      <a href="https://rust-lang.org/" target="_blank" rel="noreferrer">
+        <img src="https://rust-lang.org/static/images/rust-logo-blk.svg" width="36" height="36" alt="Figma" />
       </a>
-
 </p>
 <!-- <a href="https://app.daily.dev/kunapoom"><img src="https://api.daily.dev/devcards/v2/kcVE8uvQeEUOhKKH6hxSD.png?r=84r&type=default" width="356" alt="Kunapoom Oprik's Dev Card"/></a> -->
