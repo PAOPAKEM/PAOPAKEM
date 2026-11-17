@@ -1,11 +1,11 @@
 Hi My name is Kunapoom Oprik
 ======================================================================================================================================
 
-I'm a student at the Faculty of ICT, Mahidol University
+I'm a fresh graduate student at the Faculty of ICT, Mahidol University
 
 *   🌍  I'm based in Bangkok
-*   ✉️  You can contact me at [kunapoom.opr@student.mahidol.edu](mailto:kunapoom.opr@student.mahidol.edu)
-*   🧠  I'm learning React, FastAPI, Rust.
+*   ✉️  You can contact me at [kunapoom.opr@gmail.com](mailto:kunapoom.opr@gmail.com)
+*   🧠  I'm learning AWS & Data Engineering.
 
 ### Skills
 
